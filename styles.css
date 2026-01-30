@@ -309,12 +309,14 @@ nav {
     color: var(--accent-color);
     font-weight: 700;
     margin: 0.2rem 0;
+    text-align: center;
 }
 
 .raduno-location {
     font-size: 0.9rem;
     color: var(--text-light);
     font-style: italic;
+    text-align: center;
 }
 
 .raduno-intro {
